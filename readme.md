@@ -27,8 +27,8 @@ This implementation combines:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/pdtb-dependency-parser.git
-cd pdtb-dependency-parser
+git clone https://github.com/fivehills/Conversion_PDTB2_Dependency.git
+cd Conversion_PDTB2_Dependency
 ```
 
 2. Create a virtual environment:
