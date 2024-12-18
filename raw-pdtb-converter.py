@@ -1,4 +1,5 @@
-```python
+###the script for converting PDTB to discourse dependency data#########
+#######################################################################
 from dataclasses import dataclass, field
 from typing import List, Tuple, Optional, Dict
 import re
