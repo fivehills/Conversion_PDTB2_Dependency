@@ -1,6 +1,6 @@
 # Enhanced PDTB Dependency Parser
 
-A BERT-based parser for converting PDTB (Penn Discourse Treebank) annotations to discourse dependency structures, implementing the approach described in "A Novel Dependency Framework for Enhancing Discourse Data Analysis".
+A BERT-based parser for testing the validity of discourse dependency structures converted from PDTB (Penn Discourse Treebank) annotations, implementing the approach described in "A Novel Dependency Framework for Enhancing Discourse Data Analysis".
 
 ## Table of Contents
 - [Overview](#overview)
